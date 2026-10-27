@@ -1,147 +1,242 @@
-# Thomas Gustavo Heinrich
 
 ## Sobre mim
 
-Meu nome é Thomas Gustavo Heinrich e sou estudante do curso de Banco de Dados na FATEC São José dos Campos.
+Iniciei minha trajetória na área de tecnologia atuando com suporte de TI na Prefeitura de Caraguatatuba, onde tive meus primeiros contatos profissionais com a área e desenvolvi meu interesse por programação e desenvolvimento de sistemas.
 
-Tenho grande interesse na área de tecnologia, especialmente em desenvolvimento de software, banco de dados, análise de dados e desenvolvimento web. Ao longo da graduação venho participando de projetos integradores que me permitem aplicar na prática os conhecimentos adquiridos em sala de aula, trabalhando com tecnologias modernas e metodologias de desenvolvimento em equipe.
+Em 2024, ingressei no curso de Banco de Dados na FATEC de São José dos Campos, onde venho aprimorando meus conhecimentos em desenvolvimento de software, arquitetura de sistemas e gerenciamento de bancos de dados.
 
-Além da formação acadêmica, também busco constantemente aprimorar meus conhecimentos por meio de projetos pessoais, cursos e experiências práticas de desenvolvimento. Tenho experiência com desenvolvimento frontend utilizando Vue.js, TypeScript, HTML, CSS e integração com APIs, além de conhecimentos em Java, bancos de dados relacionais e versionamento de código com Git.
+Tenho experiência no desenvolvimento de aplicações web, principalmente utilizando Java (Spring Boot), JavaScript (React.js), Python e PostgreSQL. Busco desenvolver soluções eficientes, com foco em boas práticas de programação, qualidade de código e escalabilidade.
 
-Atualmente procuro evoluir minhas habilidades técnicas e profissionais, adquirindo experiência em projetos que envolvam desenvolvimento de sistemas, banco de dados e análise de dados.
+Atuei na Johnson & Johnson, na área de Legal Operations, trabalhando com análise de dados, desenvolvimento de dashboards em Power BI, automação de processos e ferramentas voltadas à gestão empresarial.
 
----
+Atualmente, atuo no Parque de Inovação Tecnológica de São José dos Campos (PIT), na área de planejamento e governança, participando do desenvolvimento de soluções digitais e iniciativas de inovação.
 
-## Contatos
+Tenho interesse especial em desenvolvimento backend e segurança da informação, áreas nas quais busco aprofundar continuamente meus conhecimentos.
 
-* GitHub: https://github.com/HeinrichThomas
-* E-mail: thomasgheinrich7@gmail.com
-* LinkedIn: https://www.linkedin.com/in/thomas-g-heinrich/
+### Meus Principais Conhecimentos
 
----
-
-## Meus Principais Conhecimentos
-
-### Linguagens e Tecnologias
-
-* Java
-* JavaScript
-* TypeScript
-* SQL
-* HTML
-* CSS
-* Vue.js
-* Spring Boot
-* PostgreSQL
-* Docker
-* Git
-* GitHub
-* Axios
+**Java | Spring Boot | TypeScript | React | PostgreSQL**
 
 ---
 
 ## Meus Projetos
 
-# Em 2025-2
+### Em 2024-2
 
-## FATEC-API-3-SEMESTRE
+## Calculadora Científica
 
-### Empresa Parceira
-
-Projeto acadêmico desenvolvido no formato de API durante o terceiro semestre do curso de Banco de Dados da FATEC São José dos Campos em parceria com Altave.
+### Empresa Parceira: Projeto Interno
 
 ### Problema
 
-O problema do projeto era desenvolver uma solução capaz de auxiliar no gerenciamento de competências, avaliações, colaboradores e cargos dentro de uma organização.
-
-A proposta surgiu da necessidade de organizar melhor as informações relacionadas aos colaboradores, permitindo que a empresa acompanhasse seus perfis, suas competências, seus desempenhos e suas possibilidades de crescimento profissional.
-
-Além disso, era necessário que o sistema apresentasse essas informações de forma clara e visual, facilitando a análise por meio de telas, dashboards e funcionalidades voltadas ao acompanhamento dos dados.
+O desafio do projeto era desenvolver uma calculadora científica capaz de realizar diferentes operações matemáticas em uma única aplicação. Além das operações básicas, o sistema deveria permitir cálculos mais complexos, como fatorial, equações de segundo grau, conversões de bases numéricas e juros simples e compostos.
 
 ### Solução Entregue pela Equipe
 
-A equipe desenvolveu uma aplicação web voltada para o gerenciamento de colaboradores, competências, avaliações e informações relacionadas ao desenvolvimento profissional dentro da empresa.
+A equipe desenvolveu uma calculadora científica com funcionalidades organizadas por meio de um menu interativo, permitindo ao usuário escolher e executar diferentes operações.
 
-O sistema permite visualizar informações dos colaboradores, acompanhar dados em dashboards e realizar avaliações. A aplicação foi dividida entre backend e frontend. O backend foi desenvolvido com Java, sendo responsável pelas regras de negócio e integração com os dados. O frontend foi desenvolvido com Vue, TypeScript, HTML, CSS e Axios, permitindo a criação das telas e a comunicação com a API.
+O desenvolvimento foi dividido em três sprints, começando pelas operações básicas e avançando para funcionalidades matemáticas mais complexas.
 
-Repositório do Projeto: https://github.com/CaramelStray/CaramelStray-Api3-Semestre
+O projeto também envolveu a elaboração de requisitos, organização de tarefas e documentação das funcionalidades desenvolvidas.
 
-### Tecnologias Utilizadas
+[Repositório do Projeto](https://github.com/BugBusters-Suricatos/CalculadoraCientifica)
 
-* Java: utilizado no desenvolvimento do backend da aplicação.
-* Vue: utilizado no desenvolvimento do frontend e das telas do sistema.
-* TypeScript: utilizado para melhorar a organização e a segurança do código no frontend.
-* HTML: utilizado para estruturar as páginas da aplicação.
-* CSS: utilizado para estilização e organização visual das telas.
-* Axios: utilizado para realizar a comunicação entre o frontend e o backend.
-* Git e GitHub: utilizados para versionamento de código e colaboração entre os membros da equipe.
+#### Tecnologias Utilizadas
+
+- **TypeScript:** Utilizado no desenvolvimento das funcionalidades da calculadora.
+- **VisualG e Portugol:** Utilizados para construção e implementação inicial dos algoritmos.
+- **Git e GitHub:** Utilizados para versionamento do código e colaboração entre os integrantes.
+- **Trello:** Utilizado para organização das tarefas e acompanhamento das sprints.
+
+#### Contribuições Pessoais
+
+Atuei no desenvolvimento das funcionalidades da calculadora científica, contribuindo principalmente para a implementação dos algoritmos de conversão de bases numéricas e cálculo de juros simples.
+
+Durante o projeto, pude aplicar conceitos de lógica de programação e aprimorar meus conhecimentos em desenvolvimento de software.
+
+#### Hard Skills
+
+- **Lógica de Programação:** Desenvolvimento de algoritmos e operações matemáticas.
+- **TypeScript:** Aplicação de conceitos básicos de programação.
+- **Git e GitHub:** Controle de versão e colaboração em equipe.
+
+#### Soft Skills
+
+**Trabalho em Equipe:** Colaborei com os demais integrantes durante o desenvolvimento do projeto, participando da organização e execução das atividades.
+
+**Organização:** Desenvolvi minha capacidade de trabalhar com tarefas distribuídas em sprints, seguindo os requisitos e prazos estabelecidos.
 
 ---
 
-### Contribuições Pessoais
+### Em 2025-1
 
-Minha contribuição pessoal no projeto foi voltada exclusivamente para o desenvolvimento frontend da aplicação.
+## Gerenciador de Horários de Aula
 
-Atuei principalmente na criação e desenvolvimento das telas de dashboard, colaboradores, perfil do colaborador e avaliação. Essas telas eram importantes para permitir que o usuário visualizasse informações relevantes do sistema de maneira clara, organizada e funcional.
+### Empresa Parceira: Projeto Interno
 
-Uma das minhas principais atividades foi o desenvolvimento da tela de dashboard. Nessa parte, trabalhei na organização visual das informações, buscando apresentar os dados de forma objetiva para facilitar a análise do usuário.
+### Problema
 
-Também desenvolvi a tela de colaboradores, permitindo a visualização das informações relacionadas aos funcionários cadastrados no sistema. Além disso, trabalhei na tela de perfil do colaborador, que tinha como objetivo apresentar informações mais detalhadas sobre cada pessoa.
+A organização dos horários de aula em instituições de ensino pode ser complexa, principalmente quando professores lecionam em diferentes cursos e semestres.
 
-Outra contribuição importante foi na tela de avaliação, onde atuei na construção da interface utilizada para acompanhar ou registrar informações relacionadas ao desempenho dos colaboradores.
+O desafio era desenvolver um sistema que facilitasse o gerenciamento de professores, disciplinas, cursos e horários, evitando conflitos de agendamento e auxiliando os coordenadores na organização do calendário acadêmico.
 
-Durante o desenvolvimento, utilizei Vue, TypeScript, HTML, CSS e Axios. O Axios foi importante para realizar a comunicação entre o frontend e o backend, permitindo que as telas exibissem dados vindos da API.
+### Solução Entregue pela Equipe
 
-Entre as atividades realizadas, destaco:
+A equipe desenvolveu um sistema de gerenciamento de horários de aula, permitindo o cadastro e a administração de professores, cursos, disciplinas e semestres letivos.
 
-Desenvolvimento da tela de dashboard. Desenvolvimento da tela de colaboradores. Desenvolvimento da tela de perfil do colaborador. Desenvolvimento da tela de avaliação. Organização visual das telas. Estruturação dos componentes no frontend. Estilização das interfaces com HTML e CSS. Utilização de Axios para comunicação com a API. Ajustes na experiência do usuário. Testes manuais das telas desenvolvidas.
+A aplicação possibilita organizar os horários das disciplinas e foi projetada para identificar conflitos de agendamento, além de oferecer sugestões de alocação de horários.
 
-Essas contribuições ajudaram a tornar o sistema mais claro, visual e funcional para o usuário. Além disso, o projeto contribuiu para meu aprendizado prático em desenvolvimento frontend, consumo de APIs e construção de interfaces em uma aplicação web real.
+O desenvolvimento foi organizado em três sprints, abrangendo o levantamento de requisitos, modelagem do banco de dados, implementação das funcionalidades e documentação do sistema.
+
+#### Tecnologias Utilizadas
+
+- **Banco de Dados Relacional:** Utilizado para armazenar e organizar informações de professores, disciplinas, cursos e horários.
+- **Git e GitHub:** Utilizados para controle de versão e colaboração entre os integrantes da equipe.
+- **Modelagem Entidade-Relacionamento (ER):** Utilizada para definir a estrutura do banco de dados e os relacionamentos entre as entidades do sistema.
+
+#### Contribuições Pessoais
+
+Atuei no desenvolvimento do backend e na modelagem do banco de dados da aplicação.
+
+Contribuí para a definição das entidades e seus relacionamentos, organizando a estrutura necessária para armazenar as informações de professores, disciplinas, cursos e horários.
+
+Também participei da implementação de funcionalidades do backend, aplicando conceitos de programação e integração com banco de dados.
+
+#### Hard Skills
+
+- **Modelagem de Banco de Dados:** Criação e organização de entidades e relacionamentos.
+- **SQL:** Aplicação de conceitos de bancos de dados relacionais.
+- **Desenvolvimento Backend:** Implementação de funcionalidades e lógica da aplicação.
+- **Git e GitHub:** Versionamento de código e colaboração em equipe.
+
+#### Soft Skills
+
+**Trabalho em Equipe:** Colaborei com os demais desenvolvedores na implementação das funcionalidades, participando das atividades de desenvolvimento do sistema.
+
+**Organização:** Trabalhei com atividades distribuídas em sprints, acompanhando as etapas de desenvolvimento e os requisitos definidos para o projeto.
+
 ---
 
-## Hard Skills
+### Em 2025-2
 
-Vue: sei fazer com autonomia. Utilizei Vue no desenvolvimento das telas do sistema, trabalhando com componentes, estruturação da interface e organização das funcionalidades do frontend.
+## AllTalent – Sistema de Gestão de Competências
 
-TypeScript: sei fazer com autonomia. Utilizei TypeScript junto com Vue para deixar o código mais organizado, seguro e fácil de manter.
+### Empresa Parceira: Projeto Interno – FATEC São José dos Campos
 
-JavaScript: sei fazer com autonomia. Utilizei JavaScript como base para o funcionamento das interações do frontend e manipulação dos dados exibidos nas telas.
+### Problema
 
-HTML: sei fazer com autonomia. Utilizei HTML para estruturar as páginas, formulários, botões, cards e demais elementos visuais da aplicação.
+O desafio do projeto era desenvolver um sistema que facilitasse o gerenciamento das competências dos colaboradores de uma empresa.
 
-CSS: sei fazer com autonomia. Utilizei CSS para estilizar as telas, organizar espaçamentos, alinhamentos, cores e melhorar a aparência da interface.
+A falta de uma plataforma centralizada para visualizar habilidades, acompanhar avaliações e identificar talentos dificultava a tomada de decisões relacionadas a promoções, desenvolvimento profissional e alocação de funcionários.
 
-Axios: sei fazer com autonomia. Utilizei Axios para realizar requisições entre o frontend e o backend, permitindo buscar e exibir dados vindos da API.
+### Solução Entregue pela Equipe
 
-Java: sei fazer com autonomia. Embora minha atuação no projeto tenha sido focada no frontend, o backend utilizava Java, e foi importante entender sua estrutura para compreender a comunicação entre as telas e a API.
+A equipe desenvolveu o AllTalent, uma plataforma web voltada ao gerenciamento de colaboradores e suas competências profissionais.
 
-Git e GitHub: sei fazer com autonomia. Utilizei Git e GitHub para versionamento do código, organização das alterações e colaboração com a equipe.
+O sistema permite o cadastro e a edição de perfis, a identificação de habilidades por meio de tags e a realização de avaliações pelos supervisores e diretores.
+
+A aplicação também contempla diferentes níveis de acesso e dashboards para visualização das competências dos colaboradores, auxiliando os gestores na identificação de talentos e na tomada de decisões sobre possíveis promoções e realocações.
+
+[Protótipo do Projeto no Figma](https://www.figma.com/make/aSO16kJmEfupakrrjeVgRB/CaramelStray-Front?fullscreen=1)
+
+#### Tecnologias Utilizadas
+
+- **Java:** Utilizado no desenvolvimento do backend e na implementação das regras de negócio.
+- **Spring Boot:** Framework utilizado para construção da API REST e organização dos serviços do backend.
+- **Vue.js:** Utilizado no desenvolvimento do frontend, criando componentes e interfaces interativas.
+- **JavaScript e TypeScript:** Utilizados na implementação da lógica e das funcionalidades da interface.
+- **PostgreSQL:** Banco de dados relacional utilizado para armazenar informações dos colaboradores e suas competências.
+- **JWT:** Utilizado para autenticação e controle de acesso dos usuários.
+- **Figma:** Ferramenta utilizada para prototipagem e planejamento das interfaces.
+- **Git e GitHub:** Utilizados para versionamento do código e colaboração entre os integrantes da equipe.
+
+#### Contribuições Pessoais
+
+Atuei principalmente no desenvolvimento do frontend da aplicação utilizando Vue.js, contribuindo para a construção das interfaces e implementação de funcionalidades voltadas ao gerenciamento de colaboradores e suas competências.
+
+Durante o desenvolvimento, trabalhei com a criação e manutenção de componentes, implementação de funcionalidades interativas e integração do frontend com os serviços disponibilizados pelo backend.
+
+Também colaborei no desenvolvimento do backend utilizando Java e Spring Boot, participando da implementação e dos ajustes de funcionalidades necessárias para o funcionamento da aplicação.
+
+Essa experiência permitiu aprofundar meus conhecimentos em desenvolvimento web e compreender melhor a comunicação entre frontend, backend e banco de dados.
+
+#### Hard Skills
+
+- **Vue.js:** Desenvolvimento de interfaces e componentes frontend.
+- **JavaScript e TypeScript:** Implementação de funcionalidades e interatividade.
+- **Java:** Desenvolvimento de funcionalidades no backend.
+- **Spring Boot:** Desenvolvimento e manutenção de serviços REST.
+- **PostgreSQL:** Utilização de banco de dados relacional.
+- **Git e GitHub:** Controle de versão e colaboração em equipe.
+
+#### Soft Skills
+
+**Trabalho em Equipe:** Colaborei com os integrantes responsáveis pelo frontend e backend, contribuindo para o desenvolvimento e integração das funcionalidades do sistema.
+
+**Resolução de Problemas:** Trabalhei na identificação e correção de problemas durante o desenvolvimento das interfaces e na comunicação com o backend.
+
+**Aprendizado Contínuo:** Aprimorei meus conhecimentos em Vue.js e desenvolvimento web, buscando compreender melhor as tecnologias utilizadas e aplicá-las durante o projeto.
+
 ---
 
-## Soft Skills
+### Em 2026-1
 
-### Comunicação
+## Tracker – Sistema de Gestão de Manutenções
 
-Durante o projeto, desenvolvi minha comunicação ao alinhar tarefas com os integrantes da equipe, tirar dúvidas e entender melhor as funcionalidades que precisavam ser desenvolvidas no frontend.
+### Empresa Parceira: Altave
 
-### Trabalho em equipe
+### Problema
 
-O projeto exigiu colaboração entre os membros da equipe, principalmente porque as telas do frontend dependiam da integração com o backend. Isso ajudou a entender melhor a importância da organização, da divisão de tarefas e da padronização do código.
+A Altave possui aproximadamente 100 sistemas distribuídos mundialmente, que necessitam de manutenções periódicas de acordo com suas horas de utilização.
 
-### Resolução de problemas
+A organização dessas manutenções envolve diferentes fatores, como localização dos equipamentos, disponibilidade dos técnicos, contratos e tempo necessário para deslocamento.
 
-Durante o desenvolvimento, enfrentei desafios relacionados à criação das telas, organização visual, consumo de API e exibição correta dos dados. Essas dificuldades ajudaram a desenvolver minha capacidade de analisar problemas e buscar soluções práticas.
+O desafio era desenvolver uma plataforma que centralizasse essas informações, facilitando o planejamento das manutenções, o acompanhamento das ordens de serviço e o cumprimento dos prazos contratuais.
 
-### Autonomia
+### Solução Entregue pela Equipe
 
-Como atuei diretamente no desenvolvimento das telas, precisei tomar decisões sobre organização visual, estrutura dos componentes e funcionamento da interface. Isso contribuiu para o desenvolvimento da minha autonomia técnica.
+A equipe desenvolveu o Tracker, um sistema web voltado ao gerenciamento de manutenções de equipamentos distribuídos em diferentes localidades.
 
-## Aprendizado
+A aplicação permite cadastrar clientes, sistemas, contratos, ativos e técnicos, além de criar e acompanhar ordens de manutenção.
 
-Durante o desenvolvimento do projeto, aprendi melhor como funciona a construção de interfaces em uma aplicação web real.
+O sistema também contempla funcionalidades para planejamento de viagens, utilização de checklists, acompanhamento do histórico de manutenções e visualização de indicadores por meio de dashboards e relatórios.
 
-Também aprofundei meus conhecimentos em Vue, TypeScript, HTML, CSS e Axios, principalmente na criação de telas e na comunicação com uma API backend.
+A solução foi desenvolvida para facilitar o controle das atividades de manutenção, melhorar a organização dos atendimentos e auxiliar os gestores no acompanhamento de prazos e contratos.
 
-Além disso, o projeto me ajudou a compreender melhor a importância da experiência do usuário, da organização visual das informações e da integração entre frontend e backend.
+#### Tecnologias Utilizadas
 
-O projeto contribuiu para meu desenvolvimento técnico e pessoal, principalmente por permitir aplicar na prática conhecimentos de desenvolvimento frontend em um sistema real desenvolvido em equipe.
+- **Java:** Utilizado no desenvolvimento do backend e na implementação das regras de negócio.
+- **Spring Boot:** Framework utilizado para construção da API REST e organização das funcionalidades do backend.
+- **Vue.js:** Utilizado no desenvolvimento das interfaces e funcionalidades do frontend.
+- **JavaScript e TypeScript:** Utilizados na implementação da lógica e interatividade da aplicação web.
+- **PostgreSQL:** Banco de dados relacional utilizado para armazenar informações de clientes, equipamentos, contratos e manutenções.
+- **JWT:** Utilizado para autenticação e controle de acesso ao sistema.
+- **Figma:** Utilizado para prototipagem das interfaces.
+- **Git e GitHub:** Utilizados para controle de versão e colaboração entre os integrantes da equipe.
+
+#### Contribuições Pessoais
+
+Atuei principalmente no desenvolvimento do backend da aplicação, utilizando Java e Spring Boot para implementar funcionalidades relacionadas ao gerenciamento das informações do sistema.
+
+Contribuí para o desenvolvimento e manutenção de serviços e endpoints REST, trabalhando com a lógica de negócio e a comunicação entre a aplicação e o banco de dados.
+
+Também participei de atividades relacionadas ao PostgreSQL, realizando ajustes na estrutura do banco de dados e colaborando na organização das informações necessárias para o funcionamento das funcionalidades implementadas.
+
+Durante o projeto, pude aprofundar meus conhecimentos em desenvolvimento backend, arquitetura em camadas e integração entre serviços e bancos de dados relacionais.
+
+#### Hard Skills
+
+- **Java:** Desenvolvimento de funcionalidades e regras de negócio no backend.
+- **Spring Boot:** Criação e manutenção de APIs REST.
+- **PostgreSQL:** Manipulação de dados e manutenção de estruturas do banco.
+- **SQL:** Desenvolvimento de consultas e operações em bancos de dados relacionais.
+- **Git e GitHub:** Controle de versão e colaboração no desenvolvimento do sistema.
+
+#### Soft Skills
+
+**Trabalho em Equipe:** Colaborei com os demais desenvolvedores na implementação das funcionalidades, principalmente nas atividades relacionadas ao backend e ao banco de dados.
+
+**Resolução de Problemas:** Trabalhei na identificação e correção de problemas relacionados à lógica da aplicação, persistência de dados e integração entre componentes do sistema.
+
+**Organização:** Desenvolvi minhas atividades seguindo o planejamento das sprints, mantendo o código organizado e acompanhando os requisitos estabelecidos para cada entrega.
+
