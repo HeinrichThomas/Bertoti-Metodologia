@@ -137,7 +137,6 @@ O sistema permite o cadastro e a edição de perfis, a identificação de habili
 
 A aplicação também contempla diferentes níveis de acesso e dashboards para visualização das competências dos colaboradores, auxiliando os gestores na identificação de talentos e na tomada de decisões sobre possíveis promoções e realocações.
 
-[Protótipo do Projeto no Figma](https://www.figma.com/make/aSO16kJmEfupakrrjeVgRB/CaramelStray-Front?fullscreen=1)
 
 #### Tecnologias Utilizadas
 
